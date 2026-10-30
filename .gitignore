@@ -1,0 +1,10 @@
+# Files the notebooks write for JMP and other exports
+exports/
+
+# Lecturer material must never be committed
+LECTURER*
+*solutions*.ipynb
+
+# Notebook and Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
