@@ -1,0 +1,1201 @@
+CustomerID,JoinDate,Region,AcquisitionChannel,LoyaltyMember
+MF0001,2024-09-28,North,Referral,Yes
+MF0002,2024-08-15,London,Marketplace,Yes
+MF0003,2024-03-02,South East,Email,Yes
+MF0004,2024-06-25,North,Search,Yes
+MF0005,2023-01-29,South East,Email,Yes
+MF0006,2024-02-15,South East,Search,No
+MF0007,2023-11-17,South East,Referral,No
+MF0008,2024-02-14,North,Search,No
+MF0009,2023-03-14,North,Referral,No
+MF0010,2023-05-20,Midlands,Email,Yes
+MF0011,2023-12-07,South East,Social,No
+MF0012,2023-11-25,South East,Email,Yes
+MF0013,2023-01-22,Midlands,Social,No
+MF0014,2023-05-13,Midlands,Social,Yes
+MF0015,2023-02-05,London,Marketplace,Yes
+MF0016,2023-10-22,North,Search,No
+MF0017,2024-04-07,Midlands,Marketplace,No
+MF0018,2025-06-09,London,Referral,Yes
+MF0019,2024-01-01,London,Search,No
+MF0020,2023-05-02,North,Marketplace,No
+MF0021,2023-08-14,North,Search,No
+MF0022,2023-11-24,London,Search,No
+MF0023,2024-04-04,South East,Search,No
+MF0024,2024-05-06,North,Referral,No
+MF0025,2024-06-30,Midlands,Search,No
+MF0026,2023-01-10,London,Marketplace,Yes
+MF0027,2025-05-13,North,Referral,No
+MF0028,2024-08-23,Scotland and Wales,Email,No
+MF0029,2023-11-04,London,Email,No
+MF0030,2025-02-16,Scotland and Wales,Referral,Yes
+MF0031,2023-01-30,Midlands,Marketplace,No
+MF0032,2025-06-06,South East,Search,Yes
+MF0033,2025-01-18,South East,Referral,No
+MF0034,2025-03-22,Midlands,Search,No
+MF0035,2023-08-05,South East,Marketplace,No
+MF0036,2024-04-28,Scotland and Wales,Email,Yes
+MF0037,2024-06-29,South East,Marketplace,No
+MF0038,2024-10-08,North,Search,No
+MF0039,2024-09-05,Midlands,Email,No
+MF0040,2024-07-25,North,Referral,Yes
+MF0041,2023-10-12,North,Social,No
+MF0042,2023-04-26,South East,Search,Yes
+MF0043,2025-02-09,South East,Marketplace,Yes
+MF0044,2025-06-09,South East,Search,Yes
+MF0045,2023-04-17,South East,Social,No
+MF0046,2023-07-29,London,Referral,No
+MF0047,2023-02-17,London,Email,No
+MF0048,2025-02-04,Midlands,Search,No
+MF0049,2024-10-21,North,Marketplace,No
+MF0050,2025-03-12,North,Marketplace,No
+MF0051,2024-05-17,Midlands,Search,No
+MF0052,2023-05-18,South East,Marketplace,No
+MF0053,2025-05-05,South East,Marketplace,No
+MF0054,2024-10-18,South East,Marketplace,Yes
+MF0055,2024-12-01,Scotland and Wales,Marketplace,Yes
+MF0056,2025-04-04,South East,Email,No
+MF0057,2024-09-01,North,Marketplace,Yes
+MF0058,2025-04-19,South East,Search,Yes
+MF0059,2025-04-11,North,Marketplace,No
+MF0060,2024-09-03,North,Social,No
+MF0061,2024-03-04,South East,Social,No
+MF0062,2025-03-17,Scotland and Wales,Social,No
+MF0063,2023-12-24,London,Marketplace,Yes
+MF0064,2024-06-30,London,Search,Yes
+MF0065,2024-05-29,London,Search,No
+MF0066,2024-05-18,South East,Email,Yes
+MF0067,2023-06-01,Scotland and Wales,Social,Yes
+MF0068,2024-08-21,North,Search,No
+MF0069,2024-09-18,London,Referral,Yes
+MF0070,2023-07-06,North,Search,No
+MF0071,2025-06-06,South East,Email,No
+MF0072,2024-09-15,London,Search,No
+MF0073,2023-04-16,London,Email,No
+MF0074,2024-08-22,Scotland and Wales,Referral,Yes
+MF0075,2023-04-10,South East,Referral,No
+MF0076,2025-04-26,London,Search,Yes
+MF0077,2025-02-13,South East,Social,Yes
+MF0078,2025-04-24,London,Social,No
+MF0079,2025-05-02,Scotland and Wales,Email,No
+MF0080,2023-01-10,South East,Referral,Yes
+MF0081,2023-10-30,London,Social,No
+MF0082,2023-03-04,South East,Email,Yes
+MF0083,2024-10-20,South East,Social,No
+MF0084,2024-08-31,North,Search,Yes
+MF0085,2025-01-25,North,Marketplace,No
+MF0086,2025-03-12,London,Email,No
+MF0087,2023-05-28,London,Referral,No
+MF0088,2024-07-06,Scotland and Wales,Marketplace,Yes
+MF0089,2024-06-19,London,Search,No
+MF0090,2023-11-02,Midlands,Social,No
+MF0091,2025-05-05,South East,Marketplace,Yes
+MF0092,2024-07-30,North,Search,Yes
+MF0093,2024-11-15,South East,Marketplace,No
+MF0094,2023-08-21,London,Referral,No
+MF0095,2024-05-04,North,Search,No
+MF0096,2023-03-17,Scotland and Wales,Email,Yes
+MF0097,2025-01-13,London,Social,Yes
+MF0098,2025-01-22,South East,Social,Yes
+MF0099,2024-02-29,Midlands,Social,No
+MF0100,2024-07-02,London,Marketplace,Yes
+MF0101,2024-08-20,London,Social,Yes
+MF0102,2024-12-05,South East,Social,No
+MF0103,2025-06-11,South East,Marketplace,No
+MF0104,2023-02-25,London,Email,No
+MF0105,2023-11-17,North,Email,Yes
+MF0106,2024-05-27,South East,Email,Yes
+MF0107,2023-11-03,Midlands,Search,No
+MF0108,2025-06-16,Midlands,Social,No
+MF0109,2024-02-23,Midlands,Email,No
+MF0110,2023-02-25,North,Email,Yes
+MF0111,2024-09-20,London,Referral,Yes
+MF0112,2024-10-11,London,Marketplace,No
+MF0113,2025-04-11,London,Search,Yes
+MF0114,2024-08-01,Midlands,Search,No
+MF0115,2024-09-12,North,Social,Yes
+MF0116,2023-09-03,Midlands,Email,No
+MF0117,2023-05-11,South East,Search,No
+MF0118,2023-08-17,Midlands,Referral,Yes
+MF0119,2023-03-19,North,Social,Yes
+MF0120,2023-03-11,London,Marketplace,Yes
+MF0121,2023-07-04,Midlands,Email,No
+MF0122,2024-12-01,North,Search,No
+MF0123,2023-03-14,Midlands,Search,Yes
+MF0124,2024-04-28,London,Email,No
+MF0125,2023-10-11,North,Referral,No
+MF0126,2023-11-08,Scotland and Wales,Search,Yes
+MF0127,2024-10-08,London,Marketplace,No
+MF0128,2023-12-02,South East,Search,No
+MF0129,2023-01-15,London,Email,Yes
+MF0130,2024-09-18,Scotland and Wales,Marketplace,Yes
+MF0131,2023-11-25,South East,Search,Yes
+MF0132,2025-05-31,North,Email,No
+MF0133,2024-12-03,South East,Social,No
+MF0134,2025-03-19,London,Search,No
+MF0135,2024-06-11,Midlands,Search,Yes
+MF0136,2024-02-28,South East,Social,Yes
+MF0137,2024-05-28,Midlands,Search,Yes
+MF0138,2023-07-21,Midlands,Social,No
+MF0139,2023-03-10,London,Social,Yes
+MF0140,2023-11-14,South East,Search,No
+MF0141,2023-06-28,North,Social,No
+MF0142,2023-09-23,London,Marketplace,No
+MF0143,2025-03-02,North,Search,Yes
+MF0144,2024-06-14,Midlands,Search,Yes
+MF0145,2023-04-09,South East,Search,No
+MF0146,2024-09-20,London,Email,No
+MF0147,2024-12-14,London,Search,Yes
+MF0148,2023-08-02,South East,Search,No
+MF0149,2023-02-20,South East,Referral,No
+MF0150,2023-01-07,London,Social,No
+MF0151,2025-06-15,North,Social,No
+MF0152,2023-03-21,London,Social,No
+MF0153,2023-01-04,London,Search,No
+MF0154,2025-06-18,London,Referral,No
+MF0155,2025-03-03,London,Social,Yes
+MF0156,2024-12-31,North,Search,Yes
+MF0157,2023-12-31,South East,Marketplace,No
+MF0158,2024-07-04,Scotland and Wales,Social,No
+MF0159,2024-12-24,Scotland and Wales,Search,No
+MF0160,2025-04-11,South East,Search,No
+MF0161,2024-10-14,Scotland and Wales,Social,Yes
+MF0162,2023-10-07,London,Marketplace,Yes
+MF0163,2024-02-10,North,Search,No
+MF0164,2023-07-30,London,Social,Yes
+MF0165,2024-03-24,Midlands,Marketplace,No
+MF0166,2025-03-17,London,Search,Yes
+MF0167,2023-03-23,Scotland and Wales,Email,No
+MF0168,2023-06-23,North,Search,No
+MF0169,2024-07-22,Scotland and Wales,Marketplace,No
+MF0170,2025-05-26,Scotland and Wales,Email,No
+MF0171,2024-11-26,London,Search,No
+MF0172,2023-11-24,North,Marketplace,No
+MF0173,2025-01-10,London,Social,No
+MF0174,2023-05-15,Midlands,Social,No
+MF0175,2024-07-07,Midlands,Social,Yes
+MF0176,2023-05-22,North,Email,No
+MF0177,2023-01-14,South East,Search,No
+MF0178,2025-05-09,Midlands,Referral,No
+MF0179,2024-08-08,North,Marketplace,Yes
+MF0180,2024-10-06,London,Marketplace,Yes
+MF0181,2023-05-03,North,Marketplace,No
+MF0182,2024-05-28,North,Search,Yes
+MF0183,2024-12-10,South East,Social,Yes
+MF0184,2023-02-14,London,Marketplace,No
+MF0185,2023-01-08,London,Email,Yes
+MF0186,2023-01-27,London,Search,Yes
+MF0187,2023-06-14,London,Email,Yes
+MF0188,2024-10-31,Midlands,Search,Yes
+MF0189,2023-06-10,London,Email,Yes
+MF0190,2023-08-10,Midlands,Marketplace,No
+MF0191,2024-02-20,London,Social,No
+MF0192,2024-04-15,North,Email,No
+MF0193,2024-11-28,Scotland and Wales,Email,No
+MF0194,2023-07-01,London,Email,Yes
+MF0195,2023-12-12,London,Marketplace,No
+MF0196,2023-10-31,Midlands,Marketplace,Yes
+MF0197,2024-12-01,North,Search,Yes
+MF0198,2023-04-19,South East,Search,No
+MF0199,2024-12-18,North,Search,No
+MF0200,2023-06-04,Scotland and Wales,Social,No
+MF0201,2024-05-09,London,Search,Yes
+MF0202,2023-08-22,Midlands,Search,No
+MF0203,2023-09-08,Midlands,Email,No
+MF0204,2024-02-10,Midlands,Search,No
+MF0205,2024-10-24,London,Email,No
+MF0206,2025-02-01,South East,Social,Yes
+MF0207,2023-10-12,Midlands,Marketplace,No
+MF0208,2023-08-04,North,Social,No
+MF0209,2025-04-13,Midlands,Search,No
+MF0210,2023-03-15,London,Search,No
+MF0211,2024-09-06,London,Marketplace,No
+MF0212,2024-12-26,London,Search,Yes
+MF0213,2024-07-25,London,Referral,Yes
+MF0214,2024-03-06,London,Email,Yes
+MF0215,2024-04-05,South East,Email,Yes
+MF0216,2023-07-25,North,Email,No
+MF0217,2023-01-24,London,Email,Yes
+MF0218,2025-06-18,Midlands,Email,Yes
+MF0219,2023-07-17,Midlands,Social,No
+MF0220,2023-12-13,London,Referral,No
+MF0221,2025-01-10,London,Marketplace,Yes
+MF0222,2023-08-06,London,Marketplace,No
+MF0223,2024-04-08,North,Search,No
+MF0224,2023-11-06,South East,Marketplace,No
+MF0225,2024-04-02,Scotland and Wales,Search,Yes
+MF0226,2023-08-28,North,Search,Yes
+MF0227,2025-01-07,Scotland and Wales,Search,No
+MF0228,2025-01-13,London,Social,Yes
+MF0229,2023-04-18,Scotland and Wales,Search,No
+MF0230,2025-06-18,North,Referral,No
+MF0231,2024-10-25,London,Search,No
+MF0232,2023-08-18,London,Marketplace,Yes
+MF0233,2025-01-17,London,Search,No
+MF0234,2025-01-11,North,Referral,No
+MF0235,2023-03-26,London,Marketplace,Yes
+MF0236,2025-03-24,North,Search,Yes
+MF0237,2025-01-12,North,Social,No
+MF0238,2024-05-03,London,Referral,Yes
+MF0239,2023-08-12,London,Referral,Yes
+MF0240,2023-11-11,Scotland and Wales,Marketplace,No
+MF0241,2023-08-23,South East,Marketplace,No
+MF0242,2024-10-23,Scotland and Wales,Search,No
+MF0243,2024-07-28,Midlands,Referral,Yes
+MF0244,2024-11-25,London,Search,No
+MF0245,2025-03-01,North,Social,No
+MF0246,2024-10-25,North,Search,No
+MF0247,2025-03-07,Scotland and Wales,Search,No
+MF0248,2024-03-19,Midlands,Search,No
+MF0249,2025-02-08,South East,Search,No
+MF0250,2023-05-25,Midlands,Social,No
+MF0251,2023-12-26,London,Search,No
+MF0252,2025-02-08,London,Referral,No
+MF0253,2023-05-28,London,Marketplace,No
+MF0254,2023-08-12,London,Email,No
+MF0255,2024-06-18,London,Marketplace,Yes
+MF0256,2024-08-06,Midlands,Search,No
+MF0257,2024-02-11,Scotland and Wales,Marketplace,Yes
+MF0258,2024-02-16,North,Search,No
+MF0259,2023-03-23,North,Email,Yes
+MF0260,2024-10-02,Midlands,Search,Yes
+MF0261,2024-11-02,North,Social,No
+MF0262,2023-10-24,Midlands,Email,Yes
+MF0263,2023-02-01,London,Email,No
+MF0264,2024-10-15,Midlands,Social,Yes
+MF0265,2023-05-16,London,Search,Yes
+MF0266,2023-02-23,North,Referral,No
+MF0267,2024-07-08,South East,Email,No
+MF0268,2024-05-15,London,Email,No
+MF0269,2023-09-07,Midlands,Referral,Yes
+MF0270,2023-02-03,London,Social,No
+MF0271,2025-02-09,South East,Email,No
+MF0272,2025-02-10,Midlands,Email,No
+MF0273,2024-07-22,Midlands,Referral,Yes
+MF0274,2023-12-16,South East,Search,Yes
+MF0275,2023-06-20,Scotland and Wales,Email,Yes
+MF0276,2023-09-12,Midlands,Search,No
+MF0277,2025-05-23,North,Referral,No
+MF0278,2023-12-07,London,Email,Yes
+MF0279,2024-05-17,Scotland and Wales,Referral,No
+MF0280,2023-06-07,South East,Social,No
+MF0281,2023-12-25,South East,Referral,No
+MF0282,2023-09-09,London,Search,No
+MF0283,2024-05-05,Midlands,Marketplace,No
+MF0284,2024-10-01,North,Social,No
+MF0285,2025-04-19,London,Search,No
+MF0286,2023-12-06,South East,Search,Yes
+MF0287,2024-01-13,Midlands,Email,No
+MF0288,2023-07-05,South East,Social,No
+MF0289,2023-04-22,North,Search,Yes
+MF0290,2024-10-12,Scotland and Wales,Referral,Yes
+MF0291,2024-01-14,Scotland and Wales,Social,No
+MF0292,2023-11-24,North,Social,Yes
+MF0293,2024-01-10,Scotland and Wales,Search,No
+MF0294,2024-04-15,Midlands,Social,Yes
+MF0295,2024-06-10,South East,Marketplace,No
+MF0296,2024-04-15,North,Referral,No
+MF0297,2025-04-12,South East,Social,Yes
+MF0298,2023-07-14,London,Social,No
+MF0299,2025-01-05,North,Social,No
+MF0300,2023-11-30,Midlands,Referral,No
+MF0301,2024-01-12,North,Email,No
+MF0302,2024-09-23,North,Search,No
+MF0303,2024-02-02,Scotland and Wales,Search,No
+MF0304,2024-10-24,London,Search,No
+MF0305,2024-12-05,Midlands,Email,No
+MF0306,2024-04-25,Midlands,Search,Yes
+MF0307,2024-11-23,South East,Search,No
+MF0308,2023-11-17,Scotland and Wales,Email,No
+MF0309,2024-01-15,Midlands,Email,No
+MF0310,2023-02-07,North,Email,No
+MF0311,2024-08-17,London,Email,No
+MF0312,2023-12-18,Midlands,Search,Yes
+MF0313,2024-11-26,Midlands,Referral,No
+MF0314,2025-03-07,Scotland and Wales,Referral,No
+MF0315,2024-01-29,South East,Search,No
+MF0316,2024-09-08,North,Search,Yes
+MF0317,2024-07-11,South East,Search,Yes
+MF0318,2024-04-27,North,Search,Yes
+MF0319,2023-02-12,London,Referral,No
+MF0320,2024-08-01,Scotland and Wales,Social,No
+MF0321,2024-01-17,South East,Social,No
+MF0322,2024-08-27,North,Referral,No
+MF0323,2024-07-06,South East,Referral,No
+MF0324,2025-04-28,London,Marketplace,No
+MF0325,2023-08-31,Scotland and Wales,Referral,No
+MF0326,2023-05-30,London,Email,Yes
+MF0327,2023-01-08,North,Social,No
+MF0328,2024-09-24,North,Search,No
+MF0329,2024-02-22,Midlands,Search,No
+MF0330,2023-09-08,Midlands,Marketplace,No
+MF0331,2024-04-29,London,Referral,Yes
+MF0332,2023-06-12,London,Referral,No
+MF0333,2023-10-31,Midlands,Marketplace,No
+MF0334,2024-08-12,South East,Email,No
+MF0335,2024-10-04,Scotland and Wales,Social,No
+MF0336,2024-09-08,South East,Social,Yes
+MF0337,2024-10-14,North,Email,No
+MF0338,2024-07-11,Midlands,Social,Yes
+MF0339,2024-03-05,London,Social,Yes
+MF0340,2024-08-09,North,Referral,No
+MF0341,2023-10-08,London,Search,No
+MF0342,2023-11-05,North,Email,No
+MF0343,2023-07-14,North,Marketplace,Yes
+MF0344,2024-12-26,London,Search,Yes
+MF0345,2023-06-21,Midlands,Social,No
+MF0346,2024-09-28,South East,Email,Yes
+MF0347,2025-04-07,Midlands,Social,No
+MF0348,2024-09-13,Scotland and Wales,Referral,No
+MF0349,2024-09-02,South East,Referral,Yes
+MF0350,2023-11-14,London,Social,No
+MF0351,2024-07-23,London,Referral,Yes
+MF0352,2025-05-01,Midlands,Referral,No
+MF0353,2023-03-19,South East,Search,No
+MF0354,2024-08-14,Midlands,Email,Yes
+MF0355,2025-05-06,London,Search,Yes
+MF0356,2023-10-02,London,Search,No
+MF0357,2023-11-28,London,Search,Yes
+MF0358,2024-07-16,South East,Social,Yes
+MF0359,2023-08-30,London,Search,No
+MF0360,2023-03-05,Midlands,Marketplace,No
+MF0361,2024-10-07,South East,Social,No
+MF0362,2023-10-21,London,Email,Yes
+MF0363,2024-02-26,South East,Marketplace,No
+MF0364,2025-02-08,London,Social,Yes
+MF0365,2023-03-13,Midlands,Email,No
+MF0366,2023-07-14,Midlands,Email,No
+MF0367,2024-03-28,Midlands,Social,No
+MF0368,2024-01-26,South East,Email,No
+MF0369,2024-11-15,London,Referral,Yes
+MF0370,2024-12-17,London,Email,Yes
+MF0371,2023-08-13,London,Search,No
+MF0372,2025-02-06,Midlands,Email,No
+MF0373,2023-01-25,North,Search,Yes
+MF0374,2025-02-13,London,Search,No
+MF0375,2025-05-08,Midlands,Search,No
+MF0376,2024-02-27,North,Referral,No
+MF0377,2023-07-27,South East,Social,No
+MF0378,2024-06-23,London,Search,Yes
+MF0379,2024-10-16,Midlands,Email,Yes
+MF0380,2023-06-30,South East,Marketplace,Yes
+MF0381,2025-04-29,London,Search,Yes
+MF0382,2023-11-04,London,Social,Yes
+MF0383,2025-05-17,South East,Search,No
+MF0384,2025-04-21,North,Referral,Yes
+MF0385,2023-06-24,North,Search,No
+MF0386,2023-04-17,North,Search,No
+MF0387,2023-11-14,London,Marketplace,No
+MF0388,2023-03-11,London,Social,No
+MF0389,2023-09-04,Midlands,Referral,Yes
+MF0390,2024-07-06,London,Social,Yes
+MF0391,2024-04-20,London,Search,No
+MF0392,2024-09-24,South East,Social,No
+MF0393,2024-07-15,North,Search,Yes
+MF0394,2024-09-29,London,Search,No
+MF0395,2024-06-25,South East,Marketplace,No
+MF0396,2024-02-11,Scotland and Wales,Email,No
+MF0397,2024-03-28,North,Social,Yes
+MF0398,2025-01-13,Scotland and Wales,Social,Yes
+MF0399,2023-03-30,South East,Social,Yes
+MF0400,2024-10-27,North,Referral,Yes
+MF0401,2025-04-11,North,Search,Yes
+MF0402,2024-10-10,South East,Email,Yes
+MF0403,2023-12-14,Midlands,Email,No
+MF0404,2023-12-31,London,Social,No
+MF0405,2023-02-08,North,Social,No
+MF0406,2025-06-04,North,Email,No
+MF0407,2024-08-04,North,Search,Yes
+MF0408,2024-03-15,South East,Search,No
+MF0409,2025-01-05,London,Email,No
+MF0410,2023-07-08,Scotland and Wales,Referral,Yes
+MF0411,2023-04-06,London,Referral,Yes
+MF0412,2023-01-10,Scotland and Wales,Email,No
+MF0413,2025-06-18,Midlands,Email,No
+MF0414,2023-11-28,London,Email,Yes
+MF0415,2024-01-03,Scotland and Wales,Marketplace,No
+MF0416,2025-02-27,London,Social,Yes
+MF0417,2024-11-17,North,Email,Yes
+MF0418,2024-04-09,South East,Referral,No
+MF0419,2024-01-06,North,Referral,Yes
+MF0420,2023-06-19,North,Search,No
+MF0421,2024-04-03,London,Marketplace,Yes
+MF0422,2024-10-14,London,Marketplace,No
+MF0423,2024-11-13,Midlands,Search,Yes
+MF0424,2024-04-01,South East,Marketplace,Yes
+MF0425,2024-09-23,London,Search,Yes
+MF0426,2023-07-30,Midlands,Search,No
+MF0427,2023-10-05,North,Referral,No
+MF0428,2024-07-18,London,Referral,No
+MF0429,2025-03-30,London,Marketplace,Yes
+MF0430,2024-05-09,South East,Search,No
+MF0431,2024-03-12,Midlands,Social,No
+MF0432,2025-04-03,South East,Marketplace,Yes
+MF0433,2024-11-10,London,Search,Yes
+MF0434,2024-11-04,Scotland and Wales,Referral,Yes
+MF0435,2024-10-01,Midlands,Referral,No
+MF0436,2023-07-28,London,Search,No
+MF0437,2023-09-11,South East,Search,Yes
+MF0438,2023-11-02,Midlands,Social,Yes
+MF0439,2023-09-02,North,Search,Yes
+MF0440,2023-09-28,Scotland and Wales,Marketplace,No
+MF0441,2025-05-08,Midlands,Search,No
+MF0442,2024-01-30,Midlands,Search,No
+MF0443,2024-03-31,South East,Search,Yes
+MF0444,2024-10-01,North,Marketplace,No
+MF0445,2024-04-15,London,Social,Yes
+MF0446,2024-03-19,South East,Search,Yes
+MF0447,2023-01-09,Midlands,Referral,Yes
+MF0448,2023-06-08,London,Social,No
+MF0449,2024-08-10,North,Search,No
+MF0450,2025-01-23,South East,Search,No
+MF0451,2024-08-30,South East,Search,No
+MF0452,2024-09-16,Midlands,Marketplace,No
+MF0453,2024-01-25,North,Search,No
+MF0454,2023-04-18,South East,Marketplace,No
+MF0455,2023-11-06,Scotland and Wales,Social,No
+MF0456,2023-10-29,Midlands,Social,No
+MF0457,2024-09-14,London,Email,No
+MF0458,2024-09-14,North,Social,Yes
+MF0459,2025-03-07,London,Search,Yes
+MF0460,2024-12-27,London,Social,No
+MF0461,2023-08-04,London,Email,No
+MF0462,2024-07-23,Midlands,Email,Yes
+MF0463,2024-04-10,Midlands,Referral,No
+MF0464,2024-01-20,London,Marketplace,No
+MF0465,2023-05-14,North,Social,No
+MF0466,2023-06-01,Scotland and Wales,Search,Yes
+MF0467,2023-07-31,North,Search,No
+MF0468,2024-09-22,South East,Email,No
+MF0469,2023-06-20,London,Email,No
+MF0470,2024-08-13,Scotland and Wales,Search,Yes
+MF0471,2024-06-30,North,Marketplace,No
+MF0472,2025-05-04,Midlands,Social,No
+MF0473,2024-08-14,Scotland and Wales,Email,No
+MF0474,2023-11-03,Midlands,Search,No
+MF0475,2024-05-17,Midlands,Social,No
+MF0476,2025-05-08,North,Marketplace,Yes
+MF0477,2023-12-02,London,Social,No
+MF0478,2023-11-08,South East,Search,No
+MF0479,2023-08-04,London,Email,Yes
+MF0480,2024-03-25,South East,Search,Yes
+MF0481,2024-08-15,South East,Search,No
+MF0482,2024-07-26,South East,Marketplace,Yes
+MF0483,2024-07-08,London,Email,No
+MF0484,2024-03-28,Midlands,Search,Yes
+MF0485,2023-07-26,London,Search,No
+MF0486,2024-04-06,South East,Social,No
+MF0487,2023-09-07,South East,Email,No
+MF0488,2023-02-16,Midlands,Search,Yes
+MF0489,2025-01-23,Midlands,Marketplace,Yes
+MF0490,2023-04-17,Midlands,Social,No
+MF0491,2025-02-16,South East,Search,Yes
+MF0492,2024-07-08,South East,Referral,Yes
+MF0493,2024-11-22,North,Email,Yes
+MF0494,2025-03-10,North,Marketplace,No
+MF0495,2024-07-10,Midlands,Search,No
+MF0496,2023-09-05,South East,Social,No
+MF0497,2023-05-28,South East,Email,Yes
+MF0498,2024-10-04,Scotland and Wales,Social,No
+MF0499,2023-07-30,London,Search,No
+MF0500,2023-03-18,London,Marketplace,No
+MF0501,2023-12-10,London,Search,No
+MF0502,2025-03-26,Midlands,Marketplace,No
+MF0503,2023-07-24,North,Referral,No
+MF0504,2024-08-08,London,Marketplace,Yes
+MF0505,2024-05-13,North,Marketplace,No
+MF0506,2024-04-12,London,Search,Yes
+MF0507,2024-10-18,Midlands,Email,No
+MF0508,2024-04-19,London,Social,Yes
+MF0509,2025-05-30,Midlands,Marketplace,No
+MF0510,2025-06-01,South East,Social,No
+MF0511,2024-04-09,London,Referral,No
+MF0512,2024-02-11,North,Search,No
+MF0513,2024-11-10,North,Email,No
+MF0514,2025-04-16,North,Referral,No
+MF0515,2023-05-16,South East,Search,Yes
+MF0516,2023-06-01,North,Marketplace,No
+MF0517,2024-07-13,London,Social,Yes
+MF0518,2024-07-27,London,Marketplace,No
+MF0519,2023-10-24,Midlands,Search,No
+MF0520,2025-01-19,North,Marketplace,Yes
+MF0521,2025-03-25,Scotland and Wales,Search,No
+MF0522,2024-08-01,Midlands,Email,Yes
+MF0523,2024-06-09,Midlands,Search,No
+MF0524,2025-03-25,London,Email,No
+MF0525,2023-05-10,South East,Search,No
+MF0526,2023-09-16,London,Email,Yes
+MF0527,2023-07-03,North,Email,No
+MF0528,2024-01-09,Scotland and Wales,Social,Yes
+MF0529,2025-02-23,South East,Social,Yes
+MF0530,2023-12-15,Midlands,Search,No
+MF0531,2024-05-22,London,Social,No
+MF0532,2025-02-06,North,Social,No
+MF0533,2023-08-17,South East,Social,Yes
+MF0534,2023-12-24,London,Marketplace,No
+MF0535,2024-04-29,Midlands,Social,Yes
+MF0536,2024-05-10,South East,Referral,No
+MF0537,2023-07-07,South East,Social,No
+MF0538,2023-03-25,North,Social,No
+MF0539,2023-08-03,London,Email,Yes
+MF0540,2023-05-18,North,Email,No
+MF0541,2024-04-15,London,Marketplace,Yes
+MF0542,2023-12-07,Scotland and Wales,Social,Yes
+MF0543,2023-06-26,Midlands,Social,No
+MF0544,2023-09-30,Midlands,Referral,Yes
+MF0545,2025-05-18,London,Marketplace,No
+MF0546,2024-05-20,North,Search,Yes
+MF0547,2023-11-21,London,Social,No
+MF0548,2023-12-07,Scotland and Wales,Email,No
+MF0549,2024-03-17,London,Social,No
+MF0550,2024-06-06,South East,Social,No
+MF0551,2024-01-19,Scotland and Wales,Marketplace,Yes
+MF0552,2025-05-27,London,Email,Yes
+MF0553,2025-04-13,Midlands,Search,No
+MF0554,2024-01-16,North,Social,Yes
+MF0555,2024-03-28,North,Social,No
+MF0556,2024-01-08,Midlands,Marketplace,No
+MF0557,2024-08-31,Midlands,Search,No
+MF0558,2023-09-23,Scotland and Wales,Search,Yes
+MF0559,2025-06-01,South East,Marketplace,Yes
+MF0560,2023-03-19,Midlands,Email,No
+MF0561,2025-01-22,London,Search,No
+MF0562,2025-01-12,North,Social,No
+MF0563,2025-05-29,North,Marketplace,No
+MF0564,2025-03-18,London,Marketplace,No
+MF0565,2023-06-03,North,Email,No
+MF0566,2023-07-26,London,Social,Yes
+MF0567,2023-03-04,North,Email,No
+MF0568,2024-08-06,North,Search,No
+MF0569,2025-01-08,Scotland and Wales,Social,Yes
+MF0570,2024-12-25,North,Social,Yes
+MF0571,2023-07-06,North,Search,Yes
+MF0572,2025-01-26,South East,Email,Yes
+MF0573,2025-02-17,London,Marketplace,Yes
+MF0574,2025-02-08,North,Marketplace,Yes
+MF0575,2024-03-06,South East,Social,Yes
+MF0576,2025-02-08,Scotland and Wales,Search,No
+MF0577,2024-05-28,Midlands,Search,No
+MF0578,2024-09-05,North,Search,No
+MF0579,2024-05-10,London,Email,No
+MF0580,2025-04-04,London,Social,No
+MF0581,2024-05-31,London,Search,No
+MF0582,2024-12-26,North,Referral,Yes
+MF0583,2024-01-19,North,Referral,Yes
+MF0584,2023-12-04,North,Marketplace,Yes
+MF0585,2025-05-13,London,Social,No
+MF0586,2025-01-26,North,Social,No
+MF0587,2023-02-03,Midlands,Social,No
+MF0588,2024-12-03,Midlands,Search,No
+MF0589,2024-09-22,London,Marketplace,No
+MF0590,2023-04-30,South East,Social,No
+MF0591,2023-03-14,London,Social,No
+MF0592,2023-09-29,North,Email,No
+MF0593,2023-05-29,Midlands,Email,Yes
+MF0594,2024-10-25,North,Email,Yes
+MF0595,2023-05-09,Midlands,Search,No
+MF0596,2025-06-16,North,Search,Yes
+MF0597,2024-08-27,North,Search,No
+MF0598,2024-07-12,Midlands,Social,No
+MF0599,2023-06-06,London,Search,No
+MF0600,2023-11-26,North,Social,Yes
+MF0601,2025-05-21,North,Marketplace,No
+MF0602,2024-04-26,London,Referral,Yes
+MF0603,2024-07-27,London,Search,Yes
+MF0604,2023-06-03,North,Search,No
+MF0605,2024-04-15,South East,Marketplace,No
+MF0606,2023-06-17,Midlands,Email,Yes
+MF0607,2025-03-26,South East,Referral,No
+MF0608,2023-06-19,London,Search,No
+MF0609,2024-09-22,London,Search,No
+MF0610,2025-05-26,North,Email,No
+MF0611,2024-08-17,Scotland and Wales,Search,No
+MF0612,2023-10-22,Midlands,Marketplace,Yes
+MF0613,2023-03-06,London,Social,Yes
+MF0614,2025-04-01,Midlands,Email,No
+MF0615,2023-08-19,London,Search,No
+MF0616,2023-10-07,South East,Search,No
+MF0617,2025-01-09,London,Search,No
+MF0618,2024-02-07,Scotland and Wales,Search,No
+MF0619,2024-02-02,South East,Search,No
+MF0620,2024-10-16,North,Social,No
+MF0621,2024-02-22,North,Search,Yes
+MF0622,2024-01-31,North,Social,Yes
+MF0623,2025-05-13,London,Marketplace,Yes
+MF0624,2025-05-17,North,Social,No
+MF0625,2024-04-27,Scotland and Wales,Marketplace,Yes
+MF0626,2023-10-27,London,Search,No
+MF0627,2024-12-10,London,Marketplace,No
+MF0628,2025-01-26,South East,Social,No
+MF0629,2023-12-06,South East,Email,Yes
+MF0630,2024-10-11,South East,Social,Yes
+MF0631,2023-02-24,South East,Marketplace,Yes
+MF0632,2024-05-06,Midlands,Email,No
+MF0633,2025-04-01,North,Search,No
+MF0634,2023-02-17,London,Social,No
+MF0635,2024-12-12,North,Email,Yes
+MF0636,2024-09-18,Midlands,Social,Yes
+MF0637,2023-10-27,Scotland and Wales,Email,No
+MF0638,2024-04-23,London,Email,Yes
+MF0639,2023-09-23,Midlands,Email,Yes
+MF0640,2024-03-26,London,Search,Yes
+MF0641,2024-01-24,South East,Search,Yes
+MF0642,2023-07-01,South East,Marketplace,Yes
+MF0643,2023-02-20,North,Marketplace,Yes
+MF0644,2024-06-18,Scotland and Wales,Social,No
+MF0645,2023-08-14,London,Social,No
+MF0646,2023-04-19,South East,Email,No
+MF0647,2024-06-13,London,Email,No
+MF0648,2025-01-11,North,Referral,No
+MF0649,2025-01-10,London,Email,No
+MF0650,2023-08-07,South East,Email,Yes
+MF0651,2023-01-02,North,Email,Yes
+MF0652,2023-02-24,North,Search,No
+MF0653,2023-04-05,London,Social,No
+MF0654,2025-06-02,Scotland and Wales,Search,No
+MF0655,2024-05-10,South East,Search,Yes
+MF0656,2023-12-04,South East,Email,No
+MF0657,2025-06-13,South East,Email,Yes
+MF0658,2023-01-19,North,Email,No
+MF0659,2024-12-30,Scotland and Wales,Referral,No
+MF0660,2023-01-31,London,Marketplace,Yes
+MF0661,2025-06-03,South East,Social,No
+MF0662,2024-10-06,Midlands,Search,Yes
+MF0663,2024-02-26,Midlands,Search,Yes
+MF0664,2024-02-11,South East,Social,No
+MF0665,2024-02-26,Midlands,Social,No
+MF0666,2024-10-09,London,Social,Yes
+MF0667,2023-05-07,South East,Social,No
+MF0668,2023-12-30,North,Search,No
+MF0669,2023-06-21,North,Referral,No
+MF0670,2024-01-20,Midlands,Search,No
+MF0671,2023-01-04,Midlands,Search,Yes
+MF0672,2025-05-24,Midlands,Search,Yes
+MF0673,2025-04-25,London,Social,No
+MF0674,2023-08-09,North,Social,No
+MF0675,2025-02-13,London,Social,No
+MF0676,2024-10-03,Midlands,Email,No
+MF0677,2025-02-11,Midlands,Marketplace,No
+MF0678,2024-09-26,North,Search,Yes
+MF0679,2023-10-21,London,Search,No
+MF0680,2025-06-04,Midlands,Social,No
+MF0681,2024-07-31,Scotland and Wales,Marketplace,No
+MF0682,2023-04-11,Midlands,Marketplace,Yes
+MF0683,2024-04-26,Scotland and Wales,Social,No
+MF0684,2024-07-20,London,Search,No
+MF0685,2023-11-01,South East,Search,No
+MF0686,2023-04-19,Midlands,Marketplace,No
+MF0687,2023-07-17,South East,Email,Yes
+MF0688,2024-03-26,South East,Search,Yes
+MF0689,2024-08-03,South East,Social,Yes
+MF0690,2024-11-18,London,Email,Yes
+MF0691,2023-08-27,North,Social,No
+MF0692,2023-01-23,Scotland and Wales,Search,No
+MF0693,2023-05-14,Midlands,Search,Yes
+MF0694,2024-06-24,Midlands,Search,Yes
+MF0695,2025-03-18,North,Social,No
+MF0696,2023-04-04,Scotland and Wales,Social,No
+MF0697,2024-11-23,London,Search,No
+MF0698,2024-05-16,Scotland and Wales,Referral,No
+MF0699,2024-11-01,Midlands,Social,Yes
+MF0700,2025-05-10,Scotland and Wales,Email,Yes
+MF0701,2023-01-02,London,Search,Yes
+MF0702,2023-11-06,London,Search,Yes
+MF0703,2024-07-18,South East,Marketplace,No
+MF0704,2023-05-22,London,Search,No
+MF0705,2023-01-10,London,Email,No
+MF0706,2024-06-18,South East,Social,No
+MF0707,2025-02-02,Scotland and Wales,Social,Yes
+MF0708,2023-07-18,North,Search,Yes
+MF0709,2023-11-21,South East,Social,No
+MF0710,2024-01-31,South East,Search,Yes
+MF0711,2023-09-06,North,Social,Yes
+MF0712,2023-09-05,South East,Search,Yes
+MF0713,2025-01-10,Scotland and Wales,Social,Yes
+MF0714,2023-04-15,London,Marketplace,Yes
+MF0715,2024-01-29,North,Search,No
+MF0716,2024-09-02,Midlands,Marketplace,No
+MF0717,2023-09-09,London,Referral,No
+MF0718,2023-06-08,Midlands,Social,No
+MF0719,2024-10-09,South East,Email,No
+MF0720,2023-02-19,Midlands,Email,No
+MF0721,2023-02-06,Midlands,Referral,No
+MF0722,2023-09-16,London,Social,No
+MF0723,2023-03-08,London,Social,No
+MF0724,2025-05-05,South East,Social,No
+MF0725,2024-05-22,South East,Social,No
+MF0726,2023-07-04,London,Search,Yes
+MF0727,2024-06-12,North,Referral,No
+MF0728,2024-06-23,London,Marketplace,Yes
+MF0729,2025-03-27,South East,Search,No
+MF0730,2023-04-18,South East,Search,No
+MF0731,2024-09-18,London,Social,No
+MF0732,2025-03-12,Midlands,Marketplace,No
+MF0733,2023-12-24,Scotland and Wales,Email,Yes
+MF0734,2024-03-16,North,Email,Yes
+MF0735,2023-12-02,London,Email,Yes
+MF0736,2024-10-06,London,Marketplace,No
+MF0737,2023-08-26,London,Search,No
+MF0738,2024-12-15,London,Email,Yes
+MF0739,2025-03-20,London,Search,Yes
+MF0740,2024-10-30,Midlands,Social,Yes
+MF0741,2023-09-28,London,Search,No
+MF0742,2023-12-17,Midlands,Email,No
+MF0743,2024-09-23,Scotland and Wales,Social,Yes
+MF0744,2024-03-22,Midlands,Search,Yes
+MF0745,2023-03-01,North,Social,No
+MF0746,2025-06-18,Scotland and Wales,Marketplace,No
+MF0747,2024-10-12,London,Social,Yes
+MF0748,2024-12-22,London,Search,No
+MF0749,2024-10-26,London,Marketplace,Yes
+MF0750,2023-04-02,South East,Referral,No
+MF0751,2023-03-05,Midlands,Search,No
+MF0752,2023-09-06,South East,Marketplace,Yes
+MF0753,2023-08-03,North,Marketplace,Yes
+MF0754,2024-12-10,South East,Social,No
+MF0755,2024-03-05,Midlands,Search,Yes
+MF0756,2024-02-19,South East,Search,Yes
+MF0757,2024-03-03,Scotland and Wales,Social,Yes
+MF0758,2025-04-07,South East,Search,No
+MF0759,2025-04-15,South East,Marketplace,No
+MF0760,2024-08-29,South East,Search,Yes
+MF0761,2024-08-22,South East,Marketplace,No
+MF0762,2024-10-25,North,Search,Yes
+MF0763,2024-09-22,South East,Search,No
+MF0764,2025-04-12,Scotland and Wales,Social,No
+MF0765,2025-04-06,South East,Search,No
+MF0766,2024-01-05,Midlands,Marketplace,No
+MF0767,2023-11-15,Scotland and Wales,Search,No
+MF0768,2024-03-06,London,Search,No
+MF0769,2024-10-24,Midlands,Search,No
+MF0770,2024-05-18,London,Email,No
+MF0771,2023-10-25,London,Social,No
+MF0772,2025-05-15,London,Search,No
+MF0773,2024-02-12,South East,Email,Yes
+MF0774,2024-02-18,South East,Referral,No
+MF0775,2025-03-13,North,Search,Yes
+MF0776,2024-03-30,London,Email,Yes
+MF0777,2023-03-02,London,Marketplace,Yes
+MF0778,2025-02-06,Scotland and Wales,Marketplace,No
+MF0779,2023-12-07,Midlands,Search,Yes
+MF0780,2025-03-13,London,Search,Yes
+MF0781,2023-09-15,Midlands,Email,No
+MF0782,2024-10-29,Midlands,Social,Yes
+MF0783,2024-09-04,London,Social,Yes
+MF0784,2023-02-22,North,Marketplace,No
+MF0785,2024-07-25,London,Social,No
+MF0786,2025-03-22,South East,Marketplace,Yes
+MF0787,2025-01-21,Scotland and Wales,Marketplace,Yes
+MF0788,2024-01-31,Scotland and Wales,Marketplace,No
+MF0789,2024-01-04,London,Email,Yes
+MF0790,2023-05-07,North,Email,No
+MF0791,2023-09-12,South East,Social,No
+MF0792,2023-03-31,South East,Search,Yes
+MF0793,2023-02-01,South East,Email,No
+MF0794,2024-05-23,South East,Search,Yes
+MF0795,2024-08-02,North,Search,Yes
+MF0796,2023-10-17,London,Search,Yes
+MF0797,2023-08-10,South East,Email,Yes
+MF0798,2023-01-12,London,Marketplace,No
+MF0799,2023-07-02,Midlands,Social,No
+MF0800,2025-01-13,Midlands,Search,Yes
+MF0801,2024-05-28,South East,Referral,No
+MF0802,2025-02-17,South East,Search,No
+MF0803,2023-04-30,London,Search,Yes
+MF0804,2023-02-15,Midlands,Marketplace,Yes
+MF0805,2023-09-13,London,Search,No
+MF0806,2024-07-05,South East,Email,No
+MF0807,2025-06-15,North,Marketplace,Yes
+MF0808,2023-01-20,South East,Email,No
+MF0809,2024-12-05,Midlands,Search,No
+MF0810,2024-03-24,North,Search,No
+MF0811,2024-04-05,London,Marketplace,Yes
+MF0812,2024-12-15,North,Search,No
+MF0813,2024-06-14,London,Search,No
+MF0814,2024-05-08,South East,Referral,Yes
+MF0815,2025-01-30,North,Social,No
+MF0816,2024-10-01,Scotland and Wales,Marketplace,No
+MF0817,2023-03-16,North,Referral,No
+MF0818,2023-12-31,Midlands,Social,Yes
+MF0819,2024-01-30,Midlands,Social,Yes
+MF0820,2023-12-21,North,Referral,No
+MF0821,2023-02-16,Midlands,Referral,Yes
+MF0822,2023-10-26,North,Marketplace,Yes
+MF0823,2025-01-05,London,Email,Yes
+MF0824,2024-12-29,South East,Search,No
+MF0825,2024-07-25,Scotland and Wales,Social,Yes
+MF0826,2024-03-19,London,Search,No
+MF0827,2025-06-16,South East,Search,No
+MF0828,2023-11-16,North,Social,No
+MF0829,2024-08-20,South East,Search,No
+MF0830,2023-01-31,London,Social,No
+MF0831,2024-04-16,South East,Marketplace,Yes
+MF0832,2025-04-21,South East,Marketplace,No
+MF0833,2025-03-28,London,Search,No
+MF0834,2023-05-07,Scotland and Wales,Search,No
+MF0835,2025-04-19,Midlands,Email,No
+MF0836,2024-08-10,London,Social,No
+MF0837,2024-07-21,Scotland and Wales,Search,No
+MF0838,2024-11-28,South East,Search,No
+MF0839,2024-09-16,Scotland and Wales,Search,Yes
+MF0840,2025-06-17,North,Search,Yes
+MF0841,2024-09-15,North,Search,No
+MF0842,2023-01-09,Midlands,Search,No
+MF0843,2024-12-20,Midlands,Social,No
+MF0844,2024-11-06,North,Referral,No
+MF0845,2024-09-03,South East,Search,No
+MF0846,2025-03-27,South East,Search,No
+MF0847,2023-11-09,Midlands,Search,Yes
+MF0848,2023-05-07,North,Social,No
+MF0849,2024-09-01,Midlands,Email,Yes
+MF0850,2024-09-04,London,Marketplace,No
+MF0851,2024-09-19,London,Referral,No
+MF0852,2023-08-21,North,Search,Yes
+MF0853,2024-12-28,North,Referral,Yes
+MF0854,2023-04-18,London,Email,Yes
+MF0855,2023-12-05,London,Search,No
+MF0856,2024-02-24,London,Social,No
+MF0857,2025-01-18,South East,Search,Yes
+MF0858,2023-12-03,London,Marketplace,No
+MF0859,2023-11-22,South East,Social,No
+MF0860,2023-05-18,North,Referral,Yes
+MF0861,2024-04-25,London,Email,No
+MF0862,2024-04-01,North,Search,No
+MF0863,2024-11-04,Midlands,Social,No
+MF0864,2024-12-30,North,Social,Yes
+MF0865,2024-11-05,South East,Email,No
+MF0866,2023-12-26,London,Marketplace,Yes
+MF0867,2023-04-25,North,Search,No
+MF0868,2024-09-06,Midlands,Social,No
+MF0869,2024-12-21,Midlands,Email,No
+MF0870,2024-08-08,South East,Social,No
+MF0871,2023-11-21,North,Email,No
+MF0872,2024-07-23,North,Social,No
+MF0873,2023-02-22,Midlands,Search,Yes
+MF0874,2023-05-18,North,Email,Yes
+MF0875,2023-08-21,South East,Social,No
+MF0876,2024-05-26,North,Social,No
+MF0877,2023-12-11,Scotland and Wales,Social,Yes
+MF0878,2025-02-10,South East,Search,No
+MF0879,2024-11-13,North,Search,Yes
+MF0880,2024-11-10,South East,Social,No
+MF0881,2023-05-23,Scotland and Wales,Search,No
+MF0882,2024-03-27,South East,Social,No
+MF0883,2023-07-07,London,Social,Yes
+MF0884,2024-09-06,Scotland and Wales,Search,No
+MF0885,2024-04-11,North,Search,No
+MF0886,2024-11-05,South East,Social,No
+MF0887,2024-05-08,North,Search,Yes
+MF0888,2024-04-21,Midlands,Search,No
+MF0889,2025-01-03,Midlands,Email,No
+MF0890,2024-03-07,South East,Email,Yes
+MF0891,2023-12-05,North,Marketplace,Yes
+MF0892,2023-01-15,London,Email,No
+MF0893,2024-03-27,South East,Marketplace,No
+MF0894,2025-02-09,Midlands,Search,No
+MF0895,2024-10-01,South East,Email,No
+MF0896,2024-08-21,Scotland and Wales,Referral,No
+MF0897,2023-10-18,London,Marketplace,No
+MF0898,2024-05-24,Scotland and Wales,Marketplace,No
+MF0899,2025-05-30,Scotland and Wales,Search,No
+MF0900,2024-01-18,Midlands,Email,Yes
+MF0901,2025-02-07,South East,Search,No
+MF0902,2023-08-06,South East,Search,No
+MF0903,2025-06-15,London,Referral,No
+MF0904,2024-02-11,North,Email,No
+MF0905,2023-10-23,South East,Social,Yes
+MF0906,2024-02-08,London,Search,No
+MF0907,2023-07-25,South East,Social,Yes
+MF0908,2023-09-18,North,Search,No
+MF0909,2025-05-20,South East,Social,Yes
+MF0910,2023-12-29,Midlands,Referral,No
+MF0911,2023-07-07,London,Social,Yes
+MF0912,2024-09-25,London,Social,No
+MF0913,2024-02-14,Midlands,Marketplace,Yes
+MF0914,2025-01-09,South East,Marketplace,Yes
+MF0915,2025-02-25,Midlands,Referral,Yes
+MF0916,2025-05-09,Midlands,Marketplace,Yes
+MF0917,2023-05-25,South East,Email,No
+MF0918,2023-01-22,Midlands,Email,Yes
+MF0919,2024-11-28,South East,Email,Yes
+MF0920,2023-12-26,London,Referral,No
+MF0921,2023-11-08,Midlands,Social,No
+MF0922,2024-04-17,South East,Social,No
+MF0923,2025-05-13,Midlands,Marketplace,No
+MF0924,2024-03-20,Scotland and Wales,Marketplace,No
+MF0925,2023-06-19,South East,Marketplace,No
+MF0926,2023-11-20,Midlands,Search,Yes
+MF0927,2023-10-14,London,Search,Yes
+MF0928,2024-03-04,London,Search,Yes
+MF0929,2025-01-19,London,Search,No
+MF0930,2023-12-04,North,Search,Yes
+MF0931,2023-01-01,South East,Referral,No
+MF0932,2023-10-14,North,Social,No
+MF0933,2024-11-22,South East,Social,Yes
+MF0934,2024-01-28,Midlands,Social,No
+MF0935,2023-11-28,North,Email,Yes
+MF0936,2025-06-14,London,Search,No
+MF0937,2024-04-20,Midlands,Social,No
+MF0938,2023-07-06,London,Marketplace,No
+MF0939,2024-09-06,North,Social,Yes
+MF0940,2024-05-01,North,Search,No
+MF0941,2023-09-14,Scotland and Wales,Search,No
+MF0942,2025-02-07,South East,Email,No
+MF0943,2024-10-22,London,Marketplace,No
+MF0944,2024-11-07,North,Marketplace,No
+MF0945,2023-03-04,London,Search,No
+MF0946,2024-04-23,London,Social,Yes
+MF0947,2023-10-09,North,Social,No
+MF0948,2024-03-14,London,Referral,Yes
+MF0949,2025-05-29,Scotland and Wales,Marketplace,No
+MF0950,2023-02-02,Midlands,Search,No
+MF0951,2025-06-15,Midlands,Search,No
+MF0952,2024-06-22,North,Email,Yes
+MF0953,2024-10-08,Midlands,Social,Yes
+MF0954,2025-05-17,Midlands,Email,Yes
+MF0955,2024-01-29,North,Social,Yes
+MF0956,2023-01-12,Midlands,Search,No
+MF0957,2023-06-06,London,Social,Yes
+MF0958,2024-06-19,London,Search,No
+MF0959,2025-04-23,London,Social,Yes
+MF0960,2024-11-29,North,Referral,No
+MF0961,2024-10-09,North,Search,Yes
+MF0962,2023-11-05,Midlands,Search,No
+MF0963,2025-05-12,South East,Search,No
+MF0964,2024-12-06,London,Search,No
+MF0965,2023-12-11,Scotland and Wales,Referral,Yes
+MF0966,2024-12-14,Scotland and Wales,Social,No
+MF0967,2024-07-26,Midlands,Marketplace,No
+MF0968,2024-05-03,South East,Email,No
+MF0969,2025-02-28,Midlands,Email,No
+MF0970,2024-01-19,South East,Search,No
+MF0971,2023-01-27,North,Social,No
+MF0972,2024-11-11,Scotland and Wales,Marketplace,Yes
+MF0973,2023-09-21,South East,Referral,No
+MF0974,2024-08-03,London,Email,No
+MF0975,2024-04-11,London,Email,Yes
+MF0976,2024-11-12,London,Search,Yes
+MF0977,2023-09-12,North,Email,Yes
+MF0978,2023-11-05,South East,Email,Yes
+MF0979,2024-02-28,Midlands,Search,Yes
+MF0980,2023-10-09,North,Marketplace,Yes
+MF0981,2023-10-26,London,Referral,No
+MF0982,2025-05-20,London,Marketplace,No
+MF0983,2024-09-25,London,Search,Yes
+MF0984,2024-10-16,Midlands,Search,Yes
+MF0985,2023-01-26,London,Social,Yes
+MF0986,2023-09-16,London,Marketplace,No
+MF0987,2024-01-23,South East,Referral,No
+MF0988,2025-01-07,Midlands,Email,Yes
+MF0989,2024-09-18,North,Email,No
+MF0990,2023-12-10,South East,Social,Yes
+MF0991,2024-12-14,Midlands,Search,No
+MF0992,2024-12-01,London,Social,No
+MF0993,2024-05-18,South East,Marketplace,No
+MF0994,2023-11-20,North,Social,Yes
+MF0995,2023-02-24,Scotland and Wales,Email,No
+MF0996,2024-03-01,Midlands,Search,No
+MF0997,2023-07-15,Scotland and Wales,Social,Yes
+MF0998,2023-12-21,Scotland and Wales,Search,No
+MF0999,2024-11-09,South East,Marketplace,No
+MF1000,2023-03-27,London,Referral,Yes
+MF1001,2025-03-14,Midlands,Search,No
+MF1002,2023-12-05,South East,Email,No
+MF1003,2024-09-24,London,Search,Yes
+MF1004,2024-04-16,South East,Referral,Yes
+MF1005,2024-03-14,London,Search,Yes
+MF1006,2023-03-20,London,Email,No
+MF1007,2025-02-10,North,Email,Yes
+MF1008,2023-07-21,South East,Search,Yes
+MF1009,2024-03-27,South East,Social,Yes
+MF1010,2023-07-07,London,Search,Yes
+MF1011,2025-01-15,Scotland and Wales,Search,Yes
+MF1012,2024-02-04,Midlands,Social,No
+MF1013,2023-08-15,North,Social,No
+MF1014,2024-08-16,Scotland and Wales,Marketplace,Yes
+MF1015,2024-10-01,Midlands,Search,Yes
+MF1016,2025-06-02,London,Marketplace,Yes
+MF1017,2024-05-11,North,Marketplace,No
+MF1018,2025-04-10,London,Referral,No
+MF1019,2024-10-01,Midlands,Search,No
+MF1020,2023-04-29,Scotland and Wales,Referral,No
+MF1021,2023-01-01,London,Email,Yes
+MF1022,2024-05-28,South East,Search,No
+MF1023,2024-09-11,North,Social,No
+MF1024,2025-03-29,London,Marketplace,No
+MF1025,2024-01-15,South East,Social,Yes
+MF1026,2024-08-18,South East,Search,Yes
+MF1027,2023-01-27,Scotland and Wales,Social,No
+MF1028,2025-04-03,London,Email,Yes
+MF1029,2023-11-20,London,Referral,Yes
+MF1030,2024-05-05,Midlands,Search,No
+MF1031,2024-02-24,Midlands,Search,No
+MF1032,2024-01-16,South East,Social,No
+MF1033,2024-07-19,Midlands,Referral,No
+MF1034,2024-04-20,South East,Search,Yes
+MF1035,2024-06-09,Scotland and Wales,Marketplace,No
+MF1036,2024-11-07,London,Social,Yes
+MF1037,2023-01-30,Midlands,Social,No
+MF1038,2023-04-09,North,Search,No
+MF1039,2025-02-17,London,Social,No
+MF1040,2024-02-25,London,Referral,No
+MF1041,2023-01-22,London,Marketplace,Yes
+MF1042,2024-10-20,London,Email,No
+MF1043,2024-03-24,London,Search,No
+MF1044,2023-07-31,London,Search,No
+MF1045,2023-05-09,South East,Referral,No
+MF1046,2023-09-12,South East,Email,Yes
+MF1047,2024-02-24,Scotland and Wales,Email,No
+MF1048,2024-11-11,South East,Search,Yes
+MF1049,2025-01-24,Scotland and Wales,Search,Yes
+MF1050,2024-08-09,London,Social,No
+MF1051,2023-08-19,South East,Search,No
+MF1052,2023-02-14,South East,Social,No
+MF1053,2025-03-16,North,Search,Yes
+MF1054,2024-01-09,South East,Email,Yes
+MF1055,2023-09-10,London,Marketplace,No
+MF1056,2025-01-15,Midlands,Search,Yes
+MF1057,2023-06-30,North,Social,Yes
+MF1058,2023-11-30,North,Search,No
+MF1059,2024-07-16,London,Referral,No
+MF1060,2023-08-09,Midlands,Referral,No
+MF1061,2024-10-04,London,Email,No
+MF1062,2023-04-06,North,Marketplace,Yes
+MF1063,2023-05-08,Midlands,Email,No
+MF1064,2024-05-10,London,Social,No
+MF1065,2023-06-12,North,Search,No
+MF1066,2023-12-02,London,Search,No
+MF1067,2025-04-16,London,Search,No
+MF1068,2023-09-29,Midlands,Referral,Yes
+MF1069,2023-11-17,South East,Social,No
+MF1070,2024-03-02,North,Email,Yes
+MF1071,2024-06-24,South East,Marketplace,No
+MF1072,2024-06-15,Midlands,Search,No
+MF1073,2024-03-13,North,Search,No
+MF1074,2024-11-23,South East,Search,No
+MF1075,2023-07-22,South East,Email,Yes
+MF1076,2023-05-17,London,Search,No
+MF1077,2024-04-02,South East,Search,Yes
+MF1078,2023-08-03,London,Referral,No
+MF1079,2024-07-13,London,Email,No
+MF1080,2024-08-23,North,Referral,No
+MF1081,2024-02-08,Midlands,Search,No
+MF1082,2025-06-18,South East,Social,No
+MF1083,2023-07-08,North,Social,Yes
+MF1084,2024-06-01,London,Marketplace,No
+MF1085,2024-04-27,South East,Marketplace,No
+MF1086,2023-06-27,London,Search,No
+MF1087,2024-07-18,Midlands,Email,No
+MF1088,2024-12-03,London,Referral,Yes
+MF1089,2024-05-16,London,Search,No
+MF1090,2024-08-27,North,Search,Yes
+MF1091,2025-06-12,North,Referral,No
+MF1092,2025-03-30,London,Email,Yes
+MF1093,2023-12-14,Midlands,Email,No
+MF1094,2024-07-31,North,Search,No
+MF1095,2023-10-24,London,Social,No
+MF1096,2024-03-13,London,Search,No
+MF1097,2024-04-02,North,Search,No
+MF1098,2025-01-11,Midlands,Social,Yes
+MF1099,2023-06-22,South East,Marketplace,Yes
+MF1100,2024-08-29,London,Marketplace,No
+MF1101,2023-01-02,Scotland and Wales,Email,No
+MF1102,2023-08-17,Midlands,Marketplace,Yes
+MF1103,2025-02-16,Midlands,Email,Yes
+MF1104,2023-03-07,Scotland and Wales,Search,Yes
+MF1105,2024-09-16,South East,Marketplace,Yes
+MF1106,2024-03-26,South East,Marketplace,Yes
+MF1107,2025-04-11,London,Social,No
+MF1108,2025-06-11,London,Marketplace,No
+MF1109,2024-07-19,South East,Email,No
+MF1110,2024-07-23,Midlands,Marketplace,Yes
+MF1111,2025-01-20,London,Email,Yes
+MF1112,2024-07-28,Scotland and Wales,Marketplace,No
+MF1113,2025-02-15,North,Social,Yes
+MF1114,2024-09-18,North,Search,No
+MF1115,2024-03-27,London,Social,No
+MF1116,2024-12-21,Scotland and Wales,Social,No
+MF1117,2023-05-15,Midlands,Referral,No
+MF1118,2023-07-28,Scotland and Wales,Referral,Yes
+MF1119,2025-04-11,South East,Email,No
+MF1120,2025-03-05,London,Social,Yes
+MF1121,2023-04-30,North,Email,Yes
+MF1122,2024-06-16,South East,Search,No
+MF1123,2023-10-15,London,Search,Yes
+MF1124,2024-11-02,South East,Email,No
+MF1125,2023-01-13,London,Referral,No
+MF1126,2024-11-29,Midlands,Email,No
+MF1127,2024-09-24,London,Social,No
+MF1128,2025-03-04,London,Referral,No
+MF1129,2024-05-13,London,Social,No
+MF1130,2025-02-04,South East,Social,Yes
+MF1131,2024-03-01,London,Email,No
+MF1132,2023-07-18,Scotland and Wales,Search,Yes
+MF1133,2023-12-11,London,Search,No
+MF1134,2023-06-22,South East,Marketplace,Yes
+MF1135,2023-02-10,North,Social,Yes
+MF1136,2025-05-16,South East,Marketplace,Yes
+MF1137,2023-07-20,South East,Email,Yes
+MF1138,2023-01-02,London,Social,Yes
+MF1139,2024-12-09,London,Search,No
+MF1140,2023-02-10,Scotland and Wales,Referral,Yes
+MF1141,2023-04-05,Midlands,Social,No
+MF1142,2023-12-20,Midlands,Social,Yes
+MF1143,2024-09-30,Scotland and Wales,Email,Yes
+MF1144,2024-12-15,Scotland and Wales,Social,Yes
+MF1145,2023-10-10,South East,Search,Yes
+MF1146,2024-08-18,London,Marketplace,No
+MF1147,2024-12-01,London,Search,No
+MF1148,2024-04-13,London,Search,No
+MF1149,2025-06-11,South East,Social,No
+MF1150,2025-04-11,South East,Referral,Yes
+MF1151,2025-05-21,London,Referral,No
+MF1152,2025-01-05,Midlands,Social,Yes
+MF1153,2024-08-08,North,Search,No
+MF1154,2023-03-10,South East,Social,No
+MF1155,2023-08-31,South East,Email,Yes
+MF1156,2024-08-26,London,Search,No
+MF1157,2023-04-15,London,Email,Yes
+MF1158,2024-02-18,London,Social,Yes
+MF1159,2023-09-29,South East,Social,Yes
+MF1160,2024-12-24,South East,Search,Yes
+MF1161,2023-04-01,Midlands,Social,No
+MF1162,2024-05-30,South East,Marketplace,Yes
+MF1163,2025-05-08,South East,Social,Yes
+MF1164,2024-08-21,North,Referral,No
+MF1165,2023-11-17,South East,Social,No
+MF1166,2023-07-09,North,Referral,Yes
+MF1167,2024-06-20,London,Social,No
+MF1168,2025-04-07,South East,Marketplace,Yes
+MF1169,2024-12-11,London,Search,No
+MF1170,2023-10-28,North,Social,No
+MF1171,2024-08-14,Midlands,Referral,No
+MF1172,2023-05-01,South East,Email,Yes
+MF1173,2024-03-28,London,Referral,Yes
+MF1174,2024-12-03,North,Social,No
+MF1175,2023-03-17,South East,Search,No
+MF1176,2023-12-28,South East,Email,Yes
+MF1177,2023-08-18,Scotland and Wales,Social,Yes
+MF1178,2025-06-11,Scotland and Wales,Email,Yes
+MF1179,2024-02-14,North,Email,Yes
+MF1180,2025-02-26,Midlands,Referral,No
+MF1181,2023-06-04,Midlands,Marketplace,No
+MF1182,2025-04-07,North,Marketplace,No
+MF1183,2024-01-29,Scotland and Wales,Search,No
+MF1184,2023-05-03,Midlands,Email,No
+MF1185,2023-03-12,South East,Search,No
+MF1186,2024-08-25,London,Email,Yes
+MF1187,2025-02-26,London,Email,No
+MF1188,2024-07-08,Scotland and Wales,Search,Yes
+MF1189,2024-01-23,Midlands,Marketplace,Yes
+MF1190,2024-05-11,South East,Search,No
+MF1191,2025-04-30,Midlands,Marketplace,Yes
+MF1192,2024-12-15,London,Social,No
+MF1193,2025-06-16,London,Marketplace,No
+MF1194,2023-08-28,London,Search,No
+MF1195,2025-02-18,London,Email,No
+MF1196,2024-12-22,South East,Search,No
+MF1197,2024-08-03,Midlands,Search,No
+MF1198,2024-07-24,London,Marketplace,No
+MF1199,2023-05-14,South East,Social,No
+MF1200,2024-08-16,Midlands,Marketplace,Yes
